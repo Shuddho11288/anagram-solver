@@ -77,5 +77,5 @@ print(x)
 >### Unfortunately we haven't completed it yet so we just added the pass function in the source code. We hope to complete that as soon as possible!
 
 # Thank you :
->### If you find any bugs or have any suggestion for us, don't hesitate to mail us at tasawarshuddho@gmail.com !
+>### If you find any bugs or have any suggestion for us, don't hesitate to mail us at tasawarshuddho@gmail.com!
 >### Have a nice day! ;)
