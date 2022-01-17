@@ -50,15 +50,13 @@ class Anagram:
         raise RuntimeError("under development")
 
 
-solver = Anagram()
-x = solver.pro_match_max('bgaladshne')
-print(x)
 
-"""solver = Anagram()
+
+solver = Anagram()
 print(solver.match("Bnladshage"))
 print(solver.pro_match("artinagen"))
 print(solver.pro_match_max("madasagcar"))
 print("\n\n\n\n")
 solver_for_capital = Anagram("capital")
-print(solver_for_capital.pro_match("hakad"))"""
+print(solver_for_capital.pro_match("hakad"))
 
