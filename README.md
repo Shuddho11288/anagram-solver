@@ -1,5 +1,5 @@
 # Anagram Solver using Python!
-## Yes! We made a anagram solver for you using the easiest language `Python`
+### Yes! We made a anagram solver for you using the easiest language `Python`
 
 <br>
 
