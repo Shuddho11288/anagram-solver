@@ -35,7 +35,7 @@ print(x)
 ```
 
 # Pro Match Function :
->### Your anagram not always fully matches a word! You probably sometimes might need to find out the closest word matching your input word! So we made a pro match function that does this cool stuff and show all the closest words having same length as a result! Example Below.
+>### Your anagram not always fully matches a word! You probably sometimes might need to find out the closest word matching your input word! So we made a pro match function that does this cool stuff and shows all the closest words having same length as a result! Example Below.
 
 ## Example:
 ### Input :
