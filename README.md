@@ -18,7 +18,7 @@ print(x)
 ```
 <br>
 
->### The **Anagram Class** also takes a parameter. It is a string and you have to define what type of data you want to solve. For Example if you want to solve an anagram of **capitals of countries** then your parameter should be **"capital"**. If **no paramter** is passed then by default it will take your input word as an anagram of a **country**.
+### The **Anagram Class** also takes a parameter. It is a string and you have to define what type of data you want to solve. For Example if you want to solve an anagram of **capitals of countries** then your parameter should be **"capital"**. If **no paramter** is passed then by default it will take your input word as an anagram of a **country**.
 <br>
 
 ## Example :
@@ -56,7 +56,7 @@ print(x)
 
 ## The **pro match max** function :
 
->### As the pro match function returns multiple different words matching at different rates, You may want to get the most matching word and that is why we made a pro match max function that returns the results that matches the most.
+### As the pro match function returns multiple different words matching at different rates, You may want to get the most matching word and that is why we made a pro match max function that returns the results that matches the most.
 
 <br>
 
@@ -77,5 +77,5 @@ print(x)
 >### Unfortunately we haven't completed it yet so we just added the pass function in the source code. We hope to complete that as soon as possible!
 
 # Thank you :
->### If you find any bugs or have any suggestion for us, don't hesitate to mail us at tasawarshuddho@gmail.com!
->### Have a nice day! ;)
+### If you find any bugs or have any suggestion for us, don't hesitate to mail us at tasawarshuddho@gmail.com!
+### Have a nice day! ;)
