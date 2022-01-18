@@ -73,7 +73,7 @@ print(x)
 [('bangladesh', 100.0)]
 ```
 # New Ultra Pro Match and Ultra Pro Match Max Function :
->### it tries to match with all words in the database. It can be the most useful to you! Here we are giving example for ultra pro match function. The ultra pro match max function returns the closest match like pro match max function
+>### It tries to match with all words in the database. It can be the most useful to you! Here we are giving an example for ultra pro match function. The ultra pro match max function returns the closest match like pro match max function.
 ## Example:
 ### Input :
 ```py
